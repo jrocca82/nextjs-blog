@@ -8,3 +8,5 @@ const YourComponent = () => (
     alt="Your Name"
   />
 );
+
+export default YourComponent;
